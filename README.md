@@ -22,7 +22,7 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Abhinandankaushik/AI-Content-Crafter.git
+git clone https://github.com/Abhinandankaushik/AI-Driven-Content-Crafter.git
 cd ai-content-crafter
 
 # Install dependencies
